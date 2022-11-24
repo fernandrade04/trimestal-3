@@ -7,7 +7,7 @@
 <img src="https://cdn.discordapp.com/attachments/762851212193693696/1045395355396739123/newsapp_details_Easy-Resize.com_1.jpg">
 <h2>Exemplo de JSON retornado pela API</h2>
 <h3>
- {
+` {`
 "status": "tudo bem" ,
 "resultados totais": 10 ,
 -"artigos": [
