@@ -8,4 +8,8 @@
 <h2>Exemplo de JSON retornado pela API</h2>
 <img src="https://cdn.discordapp.com/attachments/762851212193693696/1045400383654203454/image.png"
 <h2>Desenvolvimento do APP</h2>
-<h3></h3>
+<h3>
+  - Logo de início precisamos instalar o pacote: http 0.13.5
+  - 
+</h3>
+
