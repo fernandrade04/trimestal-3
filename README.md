@@ -10,6 +10,6 @@
 <h2>Desenvolvimento do APP</h2>
 <h3>
   - Logo de início precisamos instalar o pacote: http 0.13.5
-  - 
+  - Depois, criamos o arquivo main.dart
 </h3>
 
